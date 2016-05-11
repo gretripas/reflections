@@ -1,0 +1,54 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+    
+The process of finding a bug take much less time than if you tryed to find it
+in a long file examining each line. Using diff shows exactly where the change
+takes place.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here
+Having easy access to the entire history of a file besides of saving a los of
+time can helop you see the progress you making and easy to find and correct all
+the mistakes.
+ 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+One of the advantages of manually commiting the changes to the document is that
+the commit can be done after the right change was made. On the other hand,
+having changes automatically done is save if you forget to do it manually. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+Sometimes changes affects multiple files so it make  sense to save multiple 
+files in one commit.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+Use git log to view the details of all the commits: ID, date and time, author,
+short description.
+Use git diff to compare two versions: previous and recent, typing IDs old first
+and new second.
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+Using git checkout command unables to see how the programm was running before 
+changes were made(previous commits) and can spot exactly where the code was
+changed and the bug was introduced. 
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+I would like to use git to connect with github and work on some of my projects.
