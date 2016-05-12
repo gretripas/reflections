@@ -14,8 +14,15 @@ to change your mind and take a file back to the working directory if you want.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+In the staging area you can compare changes you've made between working area
+and staging area using `git diff` command. You can also compare changes between
+staging area and repository using `git diff --staged` command.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+When you want to create different versions of your programm and at the same time
+keep the original version up to date, branches would be very helpfull. You can work on your program in different direction tha your master version.  
 
 How do the diagrams help you visualize the branch structure?
 
