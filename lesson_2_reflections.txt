@@ -33,6 +33,9 @@ program is going. You can see the layout of all the branches in one diagram.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result of merging two brsanches together is one version with all the changes
+made seperately in those branches. We represent them the way we do to have clear
+view at the history.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
