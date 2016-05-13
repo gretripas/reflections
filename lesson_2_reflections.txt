@@ -22,9 +22,14 @@ What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
 When you want to create different versions of your programm and at the same time
-keep the original version up to date, branches would be very helpfull. You can work on your program in different direction tha your master version.  
+keep the original version up to date, branches would be very helpfull. You can 
+work on your program in different direction than your master version.  
 
 How do the diagrams help you visualize the branch structure?
+Diagrams are really usefull when you try to visualise which direction the
+program is going. You can see the layout of all the branches in one diagram.
+
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
