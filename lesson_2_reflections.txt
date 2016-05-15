@@ -39,3 +39,7 @@ view at the history.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+When merging two commits which contain changes in the same general area, git
+knows that the lines are different and will notify the authors so they have a
+chance to figure out which changes to keep. On the other hand autoomatic merging
+saves a lots of time and git checks that there is no conflict.
