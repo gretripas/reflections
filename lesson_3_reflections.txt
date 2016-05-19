@@ -9,10 +9,17 @@ automatically stay up-to-date with your remote repository?
 
     Fill in your answer here
 
+Pulling changes manually helps to keep a repository in sync.
+
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
     Fill in your answer here
+
+Fork is just a clone that GitHub makes for you on their own machines.
+Clonning is coping a repository from GitHub to your local machine or coping
+within the local machine. Branches allows you to make changes without affecting
+the master branch. 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
