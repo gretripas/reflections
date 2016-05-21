@@ -25,7 +25,7 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     Fill in your answer here
-You can work on a project of line  and  you if you colaborate with other people
+You can work on a project of line  and if you colaborate with other people
 you will be able to merge all the changes. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
