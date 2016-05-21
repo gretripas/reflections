@@ -32,6 +32,9 @@ How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
     Fill in your answer here
+Without Git or GitHub I would probably have to use e-mail to colaborate. 
+Using e-mail seems to be easier than using Git or GitHub but using GitHub is
+much more efficient.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
