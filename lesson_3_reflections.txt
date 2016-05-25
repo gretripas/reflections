@@ -40,3 +40,6 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
+When collaborating with other people on the same project it is a good idea
+to make changes in a separate branch and then create pull request so it can be
+checked and accepted.
